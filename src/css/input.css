@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.row{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+@font-face {
+    font-family:generalFont;
+    src: url('../font/PoetsenOne-Regular.ttf') ;
+}
+@font-face {
+    font-family:headerFont;
+    src: url('../font/MajorMonoDisplay-Regular.ttf') ;
+}
