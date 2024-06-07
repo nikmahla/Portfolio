@@ -47,7 +47,7 @@ module.exports = {
         profilePic:'profilePic 3s linear infinite ',
       },
       backgroundImage:{
-        'header':"url('/src/img/mahla/h1.png')",
+        'header':"url('src/img/mahla/h1.png')",
       },
     },
   },
